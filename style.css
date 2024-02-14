@@ -1,0 +1,55 @@
+.navbar{
+    background-color: #101517;
+}
+
+.btn-outline-primary {
+    color: white; 
+    border-color: white;
+}
+
+.footer-container{
+    background-color: #101517;
+    color: white;
+}
+
+.text-body-secondary {
+    color: white !important;
+}
+
+.social-media i{
+    margin: 0 10px;
+    scale: 1.4;
+}
+
+.social-media i:hover{
+    cursor: pointer;
+}
+
+.network{
+    font-weight:900;
+}
+
+.feature-icon{
+    color: black;
+}
+
+.home-cont-btn1, .home-cont-btn2{
+    color: black;
+    border-color: black;
+}
+
+.container1{
+    background-color: #fe63f62d;
+}
+
+.container2{
+    background-color: #1015172a;
+}
+
+.container3{
+    background-color: #8ed2fc2f;
+}
+
+.container4{
+    background-color: rgba(255, 203, 112, 0.19);
+}
