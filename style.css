@@ -53,3 +53,18 @@
 .container4{
     background-color: rgba(255, 203, 112, 0.19);
 }
+
+.location{
+    margin-bottom: 50px;
+}
+
+.map{
+    overflow:hidden;
+    position:relative;
+}
+
+.map iframe{
+    height:100%;
+    width:100%;
+    position: absolute;
+}
