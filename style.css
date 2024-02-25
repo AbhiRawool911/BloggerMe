@@ -68,3 +68,11 @@
     width:100%;
     position: absolute;
 }
+
+.icon-link{
+    text-decoration: none;
+}
+
+.icon-link:hover{
+    text-decoration: underline;
+}
