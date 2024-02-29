@@ -16,6 +16,12 @@
     color: white !important;
 }
 
+.cover{
+    height: 375px;
+    width: 100vw;
+    object-fit: cover;
+}
+
 .social-media i{
     margin: 0 10px;
     scale: 1.4;
